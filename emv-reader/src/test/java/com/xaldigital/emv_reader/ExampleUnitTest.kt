@@ -1,4 +1,4 @@
-package com.devvillar.mentasdk
+package com.xaldigital.emv_reader
 
 import org.junit.Test
 

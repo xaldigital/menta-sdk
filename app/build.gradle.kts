@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.devvillar.mentasdk"
+    namespace = "com.xaldigital.mentasdk"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.devvillar.mentasdk"
+        applicationId = "com.xaldigital.mentasdk"
         minSdk = 27
         targetSdk = 34
         versionCode = 1
